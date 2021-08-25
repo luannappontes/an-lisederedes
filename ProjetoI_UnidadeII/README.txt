@@ -1,5 +1,4 @@
 Constructing a network of wikipedia pages
-
 A complete complex network case study on the topic of Data Science.
 
 Este repositório faz parte da trajetória de aprendizado na disciplina de Análise 
